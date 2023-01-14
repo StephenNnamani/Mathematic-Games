@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Country_And_States_Telephone_Codes</RootNamespace>
+  </PropertyGroup>
+
+</Project>
