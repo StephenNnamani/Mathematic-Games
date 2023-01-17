@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Country_And_States_Telephone_Codes</RootNamespace>
+    <AssemblyName>CountryAndTheirTelephoneCodes</AssemblyName>
+    <PackageId>CountryAndTheirTelephoneCodes</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Nnamani Stephen Obumnaeme</Authors>
+    <Company>Genesys Tech Hub</Company>
+    <Product>Country And States Telephone Codes</Product>
+    <Description></Description>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>Country Code Icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Country Code Icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
