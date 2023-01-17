@@ -22,7 +22,7 @@ Telephone codes.
 ## Getting Started
 
 ### _To install our package using the .NET CLI_
-- run: 'dotnet add package CountryAndTheirTelephoneCodes --version 1.0.0'
+- run: 'dotnet add package CountryAndTheirTelephoneCodes --version 1.0.3'
 
 ### _Installation using Visual Studio_
 - Right-click on project dependencies
