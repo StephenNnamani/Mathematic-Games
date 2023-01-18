@@ -5,7 +5,7 @@
     <RootNamespace>Country_And_States_Telephone_Codes</RootNamespace>
     <AssemblyName>CountryAndTheirTelephoneCodes</AssemblyName>
     <PackageId>CountryAndTheirTelephoneCodes</PackageId>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Nnamani Stephen Obumnaeme</Authors>
     <Company>Genesys Tech Hub</Company>
     <Product>Country And States Telephone Codes</Product>
